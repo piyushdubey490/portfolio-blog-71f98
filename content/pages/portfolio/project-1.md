@@ -1,7 +1,6 @@
 ---
 date: '2021-05-21'
 thumb_image: images/1_thumb.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
