@@ -33,19 +33,14 @@ layout: page
 ---
 A weird - wired man whose cravings are large whether be it food or tech or grasping knowledge . Helpful to anyone , always under my capability so that humanity should be remembered for good.
 
-
 An Engineering Student just testing his skills ..
 
 Jack Of All Trades in Real.
 
-I can with both hands (Ambidextrous). 
-
-
+I can with both hands (Ambidextrous).
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-
-
-Head over to Portfolio for Deep Dive and Do check out my Blog .
+Head over to Portfolio for a Deep Dive and Do check out my Blog .
 
 *Thank You for reading!*
