@@ -12,7 +12,7 @@ seo:
 layout: post
 thumb_image: images/8.jpg
 subtitle: ~ PIYUSH DUBEY
-excerpt: Social media Phobia
+excerpt: Social Media Phobia
 ---
 ## SOCIAL MEDIA PHOBIA
 
