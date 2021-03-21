@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
       - label: About Me
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
