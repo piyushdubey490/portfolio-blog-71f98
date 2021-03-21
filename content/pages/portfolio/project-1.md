@@ -2,7 +2,6 @@
 date: '2021-05-21'
 thumb_image: images/1_thumb.jpg
 image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
   description: This is the project 1 description
