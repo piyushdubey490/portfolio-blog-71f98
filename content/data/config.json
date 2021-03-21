@@ -81,5 +81,6 @@
             }
         ]
     },
-    "domain": "https://portfolio-blog-71f98.netlify.app"
+    "domain": "https://portfolio-blog-71f98.netlify.app",
+    "favicon": "images/favicon.ico"
 }
