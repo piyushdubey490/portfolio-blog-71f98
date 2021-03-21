@@ -83,7 +83,8 @@ sections:
         style: button
 seo:
   title: PIYUSH DUBEY
-  description: The preview of the Exto theme
+  description: |
+    WELCOME TO MY ARENA. 
   extra:
     - name: 'og:type'
       value: website
