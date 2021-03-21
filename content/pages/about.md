@@ -1,6 +1,6 @@
 ---
 title: About ME
-subtitle: This is a short page about me and our work.
+subtitle: 'This is a short page about me '
 image: images/IMG_20201126_205049.jpg
 image_alt: A man taking a picture
 seo:
