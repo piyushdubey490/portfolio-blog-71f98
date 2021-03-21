@@ -19,7 +19,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: About Me
         style: link
         icon: dribbble
         new_window: false
