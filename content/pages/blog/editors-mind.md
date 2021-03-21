@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Social Media
 date: '2021-03-21'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
