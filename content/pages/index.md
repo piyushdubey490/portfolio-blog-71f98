@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
       - label: lorem-ipsum
-        url: '#'
+        url: '#about-me'
         style: link
         icon: dribbble
         new_window: false
