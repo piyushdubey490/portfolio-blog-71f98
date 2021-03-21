@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 subtitle: This is my first post in the blog of the website
+thumb_image: images/8.jpg
 ---
 ## Lorem ipsum
 
