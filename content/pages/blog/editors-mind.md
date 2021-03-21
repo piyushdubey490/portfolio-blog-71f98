@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+subtitle: this is my first post in the blog of the website
 ---
 ## Lorem ipsum
 
