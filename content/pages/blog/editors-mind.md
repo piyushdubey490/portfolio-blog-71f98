@@ -11,7 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/8.jpg
-subtitle: ~ PIYUSH DUBEY
+subtitle: Post by  PIYUSH DUBEY
 excerpt: Social Media Phobia
 ---
 ## SOCIAL MEDIA PHOBIA
