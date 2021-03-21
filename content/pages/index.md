@@ -80,7 +80,7 @@ sections:
       - label: View Blog.........
         url: blog
         style: button
-    subtitle: 'Intresting topics to '
+    subtitle: Intresting topics to read on
 seo:
   title: PIYUSH DUBEY
   description: |
