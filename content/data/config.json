@@ -56,7 +56,8 @@
                 "url": "https://www.instagram.com/piyushdubey490/?hl=en",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "Dribbble",
