@@ -5,9 +5,16 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Piyush Dubey'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A weird - wired man whose cravings are large whether be it food or tech or
+      grasping knowledge . Helpful to anyone , always under my capability so
+      that humanity should be remembered for good.
+
+
+      Jack Of All Trades in Real.
+
+
+      Head over to **About me** section for more.
     actions:
       - label: Let's talk
         url: /contact
