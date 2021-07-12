@@ -38,7 +38,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog/",
+                "url": "/",
                 "style": "button",
                 "icon": "dribbble",
                 "new_window": false,
